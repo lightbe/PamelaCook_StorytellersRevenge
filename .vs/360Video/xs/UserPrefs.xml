@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{90CA409A-26AB-751C-BD1D-E341FAE29AFD}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/FlippyShader.shader">
+    <Files>
+      <File FileName="Assets/FlippyShader.shader" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/VideoControls.cs" Line="42" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.360Video PreferredExecutionTarget="Unity.Editor" />
+</Properties>
