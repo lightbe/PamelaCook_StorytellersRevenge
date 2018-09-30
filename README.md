@@ -1,6 +1,6 @@
 # The Storyteller's Revenge - Unity VR 360 Video Project
 
-"A Maze" is a fun virtual reality game created by Pamela Cook of [LightBe Corp](https://www.lightbe.com/). This application allows a person to choose between view two 360 video clips using video controls.
+"The Storyteller's Revenge" is a virtual reality experience created by Pamela Cook of [LightBe Corp](https://www.lightbe.com/). This experience allows a person to choose between viewing two 360 video clips using video controls.
 
 To play: You will see a title screen to begin the application where you have a chance to watch one of two videos. Movie controls will allow you to switch between the two videos. At the end of the video you can restart the movie viewing. It will replay the movie that you were last playing. You can also exit the application when a movie ends. 
 
